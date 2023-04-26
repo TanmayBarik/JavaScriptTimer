@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(#28375b, #39809c,#5fcc86,#fff37b);
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    color: #39809c;
+}
+
+i {
+    color: #5fcc86;
+}
+
+.container{
+    background-color: white;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    height:150px;
+    width:300px;
+
+    margin:300px 200px;
+    padding:20px;
+    border-radius:5px;
+}
+
+.play_pause-btn {
+    margin:5px 5px;
+}
+
+.replay-btn {
+    margin:5px 5px;
+}
+
